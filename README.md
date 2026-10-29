@@ -8,24 +8,24 @@
 
 ---
 
-## 在做什么
+## What I'm working on
 
-**让 AI 少读无用文件** · 给编码 agent 配本地检索引擎，检索命中再读，而不是把整个文件塞进上下文。
+**Cutting what agents read** — a local retrieval engine for coding agents, so they pull the exact passage instead of dragging whole files into context.
 
-**让回答有出处** · 课程 RAG 工作台，回答必须标到讲义第几页，检索不到就明说不知道。
+**Answers with sources** — a local course RAG workspace: every answer cites the handout and the page, and says "not found" rather than guessing.
 
-**让智能体真动手** · 三维开放世界里，从「看懂画面」到「执行动作」的完整闭环。
+**Agents that actually act** — a generalist agent for 3D open worlds, from reading the scene to executing actions end to end.
 
-## 精选项目
+## Selected projects
 
-| 项目 | 说明 |
+| Project | What it is |
 |:--|:--|
-| **[lumine](https://github.com/QuuuuuuuuuX/lumine)** | 三维开放世界通用智能体的论文复现 —— 感知、规划、工具调用打通 |
-| **[Self-study_AI_Assistant](https://github.com/QuuuuuuuuuX/Self-study_AI_Assistant)** | 本地课程 RAG 工作台：中文提问英文课件，答案带页码出处，数据全留本机 |
-| **[Carbon-trace](https://github.com/QuuuuuuuuuX/Carbon-trace)** | 产品碳足迹核算与可视化 |
-| **[CampusPilot](https://github.com/QuuuuuuuuuX/CampusPilot)** | 校园场景的检索与问答原型 |
+| **[lumine](https://github.com/QuuuuuuuuuX/lumine)** | A generalist agent for 3D open worlds — perception, planning and tool use wired together |
+| **[Self-study_AI_Assistant](https://github.com/QuuuuuuuuuX/Self-study_AI_Assistant)** | Local-first course RAG: ask in Chinese, answer from English handouts with page-level citations; data never leaves the machine |
+| **[Carbon-trace](https://github.com/QuuuuuuuuuX/Carbon-trace)** | Product carbon-footprint accounting and visualization |
+| **[CampusPilot](https://github.com/QuuuuuuuuuX/CampusPilot)** | Retrieval and Q&A prototype for campus scenarios |
 
-## 工具
+## Tools
 
 `Python` · `TypeScript` · `JavaScript` · `Java` · `FastAPI` · `SQLite` · `Git` · `Linux`
 
@@ -33,6 +33,6 @@
 
 <div align="center">
 
-写代码，也写清楚为什么这样写。
+Write the code. Then write down why it works.
 
 </div>
