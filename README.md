@@ -27,18 +27,12 @@
 
 ## Recognition
 
-**XERJ Corpus Hub contributor** — a commit of [Self-study_AI_Assistant](https://github.com/QuuuuuuuuuX/Self-study_AI_Assistant) was selected as a reference corpus that coding agents retrieve from before writing code.
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/QuuuuuuuuuX/badge.svg)](https://hub.xerj.org/contributors/QuuuuuuuuuX)
+
+A commit of [Self-study_AI_Assistant](https://github.com/QuuuuuuuuuX/Self-study_AI_Assistant) was selected for the XERJ Corpus Hub — a reference corpus coding agents retrieve from before writing code.
 
 [Contributor page](https://hub.xerj.org/contributors/QuuuuuuuuuX) · [Corpus page](https://hub.xerj.org/corpus/quuuuuuuuux--self-study-ai-assistant)
 
 ## Tools
 
 `Python` · `TypeScript` · `JavaScript` · `Java` · `FastAPI` · `SQLite` · `Git` · `Linux`
-
----
-
-<div align="center">
-
-Write the code. Then write down why it works.
-
-</div>
