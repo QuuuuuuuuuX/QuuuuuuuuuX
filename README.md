@@ -25,6 +25,12 @@
 | **[Carbon-trace](https://github.com/QuuuuuuuuuX/Carbon-trace)** | Product carbon-footprint accounting and visualization |
 | **[CampusPilot](https://github.com/QuuuuuuuuuX/CampusPilot)** | Retrieval and Q&A prototype for campus scenarios |
 
+## Recognition
+
+**XERJ Corpus Hub contributor** — a commit of [Self-study_AI_Assistant](https://github.com/QuuuuuuuuuX/Self-study_AI_Assistant) was selected as a reference corpus that coding agents retrieve from before writing code.
+
+[Contributor page](https://hub.xerj.org/contributors/QuuuuuuuuuX) · [Corpus page](https://hub.xerj.org/corpus/quuuuuuuuux--self-study-ai-assistant)
+
 ## Tools
 
 `Python` · `TypeScript` · `JavaScript` · `Java` · `FastAPI` · `SQLite` · `Git` · `Linux`
